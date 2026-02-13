@@ -1,4 +1,4 @@
-From httpd
+From nginx
 Maintainer name mohan
 Label Movie projcet
-Copy . /usr/local/apache2/htdocs/
+Copy . /usr/share/nginx/html/
